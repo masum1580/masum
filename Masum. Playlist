@@ -1,29 +1,31 @@
 #EXTM3U
+#EXTM3U:-1 Create By MASUM
+https://ibb.co/RpMdTYP
 #EXTINF:-1 ,BTV
 http://103.230.105.252:1935/live/btv/chunklist_w524649012.m3u8
-#EXTINF:-1 ,BTV officials youtube  bypass
+#EXTINF:-1 ,BTV World 
 https://utube.buddyxiptv.com/@BangladeshTelevision-BTV.m3u8
-#EXTINF:-1 ,Sangshad TV digijadoo
+#EXTINF:-1 ,Sangshad TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sangsad_tv
-#EXTINF:-1 ,JAMUNA TV YouTube bypass
+#EXTINF:-1 ,JAMUNA TV 
 https://utube.buddyxiptv.com/@jamunatvbd.m3u8
-#EXTINF:-1 ,Jamuna TV jago
+#EXTINF:-1 ,Jamuna TV 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
-#EXTINF:-1 ,Jamuna TV bdcast
+#EXTINF:-1 ,Jamuna TV 
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=89b4zb3d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 ,Jamuna TV jadoo
+#EXTINF:-1 ,Jamuna TV 
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=jamuna_tv
-#EXTINF:-1 ,Jamuna TV http://176.119.29.52
+#EXTINF:-1 ,Jamuna TV 
 http://176.119.29.52/live.ts?channelId=100&uid=13603&deviceMac=00:1A:79:64:B4:A6
-#EXTINF:-1 ,Independent TV YouTube bypass
+#EXTINF:-1 ,Independent TV
 https://utube.buddyxiptv.com/@IndependentTelevision.m3u8
-#EXTINF:-1 ,Independent TV jago
+#EXTINF:-1 ,Independent TV 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
-#EXTINF:-1 ,Independent TV bdcast
+#EXTINF:-1 ,Independent TV 
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=sllfd45v&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 ,Independent TV jadoo
+#EXTINF:-1 ,Independent TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=independent_tv
-#EXTINF:-1 ,Somoy TV jago
+#EXTINF:-1 ,Somoy TV 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 ,Somoy TV official
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/stream_t1_r1080001.m3u8
