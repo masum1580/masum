@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTM3U:-1 Create By MASUM
+#EXTINF:-1 Create By MASUM
 https://ibb.co/RpMdTYP
 
 #EXTINF:-1 ,BTV
@@ -78,10 +78,10 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nagorik_tvja
 #EXTINF:-1 ,GAZI TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gazi_tv_hd
 
-#EXTINF:-1 ,Tsports jadoo
+#EXTINF:-1 ,Tsports
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=t_sports
 
-#EXTINF:-1 ,DURONTO TV HD jadoo
+#EXTINF:-1 ,DURONTO TV HD
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=duronto_tv
 
 #EXTINF:-1 ,ASIAN TV
