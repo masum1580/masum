@@ -6,89 +6,29 @@ https://ibb.co/RpMdTYP
 #EXTINF:-1 ,BTV
 http://103.230.105.252:1935/live/btv/chunklist_w524649012.m3u8
 
-#EXTINF:-1 ,BTV World 
-https://utube.buddyxiptv.com/@BangladeshTelevision-BTV.m3u8
-
 #EXTINF:-1 ,Sangshad TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sangsad_tv
-
-#EXTINF:-1 ,JAMUNA TV 
-https://utube.buddyxiptv.com/@jamunatvbd.m3u8
 
 #EXTINF:-1 ,Jamuna TV 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 
-#EXTINF:-1 ,Jamuna TV 
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=89b4zb3d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-
-#EXTINF:-1 ,Jamuna TV 
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=jamuna_tv
-
-#EXTINF:-1 ,Jamuna TV 
-http://176.119.29.52/live.ts?channelId=100&uid=13603&deviceMac=00:1A:79:64:B4:A6
-
-#EXTINF:-1 ,Independent TV
-https://utube.buddyxiptv.com/@IndependentTelevision.m3u8
-
 #EXTINF:-1 ,Independent TV 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
-
-#EXTINF:-1 ,Independent TV 
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=sllfd45v&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-
-#EXTINF:-1 ,Independent TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=independent_tv
 
 #EXTINF:-1 ,Somoy TV 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
 
-#EXTINF:-1 ,Somoy TV official
-https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/stream_t1_r1080001.m3u8
-
-#EXTINF:-1 ,News 24 http://176.119.29.5
-http://176.119.29.52/live.ts?channelId=107&uid=13603&deviceMac=00:1A:79:64:B4:A6
-
-#EXTINF:-1 ,News 24 jadoo
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=news_24_hd
-
-#EXTINF:-1 ,DBC NEWS youtube bypass
-https://utube.buddyxiptv.com/@dbcnewstv.m3u8
-
-#EXTINF:-1 ,DBC News jago
+#EXTINF:-1 ,DBC News
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 
-#EXTINF:-1 ,DBC News bdcast
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=19414441&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-
-#EXTINF:-1 ,DBC News jadoo
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=dbc_news
-
-#EXTINF:-1 ,Ekattor TV jagobd
+#EXTINF:-1 ,Ekattor Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
 
-#EXTINF:-1 ,Ekattor TV jadoo
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ekattor_tv
-
-#EXTINF:-1 ,ATN NEWS YouTube bypass
-https://utube.buddyxiptv.com/@atnnewsltd.m3u8
-
-#EXTINF:-1 ,ATN NEWS jagobd
+#EXTINF:-1 ,ATN NEWS
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
 
-#EXTINF:-1 ,ATN NEWS http://176.119.29.52
-http://176.119.29.52/live.ts?channelId=83&uid=13603&deviceMac=00:1A:79:64:B4:A6
-
-#EXTINF:-1 ,ATN NEWS jado
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_news
-
-#EXTINF:-1 ,CHANNEL 24 YouTube bypass
-https://utube.buddyxiptv.com/@channel24digital.m3u8
-
-#EXTINF:-1 ,Channel 24 HD jago
+#EXTINF:-1 ,Channel 24 HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream_480p/playlist.m3u8
-
-#EXTINF:-1 ,channel_24 digijadoo
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_24
 
 #EXTINF:-1 ,EKHON TV youtube bypass
 https://utube.buddyxiptv.com/@ekhontv.m3u8
