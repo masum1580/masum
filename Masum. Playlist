@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 ,Create By MASUM
+#EXTINF:-1 ,Create BY MASUM" tvg-logo="https://imgur.com/a/E6V71Fa
 https://imgur.com/Xb5aJFC.mp4
 
-#EXTINF:-1 ,BTV
-http://103.230.105.252:1935/live/btv/chunklist_w524649012.m3u8
-
-#EXTINF:-1 ,Sangshad TV
+#EXTINF:-1 ,Sangshad TV" tvg-logo="
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sangsad_tv
 
-#EXTINF:-1 ,Jamuna TV 
+#EXTINF:-1 ,BTv
+http://103.230.105.252:1935/live/btv/chunklist_w524649012.m3u8
+
+#EXTINF:-1 ,Jamuna TV " tvg-logo="
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 
 #EXTINF:-1 ,Independent TV 
