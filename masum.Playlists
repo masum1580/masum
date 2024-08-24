@@ -368,3 +368,6 @@ https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3
 
 #EXTINF:-1 ,জলসা Movies
 http://103.151.60.174:555
+
+#EXTINF:- Discovery বাংলা
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
