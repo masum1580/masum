@@ -380,3 +380,26 @@ http://85.237.89.6:9590/live/zinatvwild/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,TOffe Drama
 http://lifetvbd.xyz:8080/play/q4sKYVqDE5wTYS6hxPP4jHivbZb_JLmXulbZtr5Z6aA/ts
+
+#EXTINF:-1 ,Bein Sports Hd
+http://xtv.ooo:8080/live/98267/02727/222532.m3u8
+
+#EXTINF:-1 ,Sky Sports 
+http://tv.cloudcdn.me/live.ts?channelId=281&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
+
+#EXTINF:-1 ,Super Sports 
+http://xtv.ooo:8080/live/98267/02727/238480.m3u8
+
+#EXTINF:-1 ,Pogo
+http://xtv.ooo:8080/live/98267/02727/150483.ts
+
+
+#EXTINF:-1 ,Hungama
+http://xtv.ooo:8080/live/98267/02727/150480.ts
+
+
+#EXTINF:-1 ,Disney HD
+http://xtv.ooo:8080/live/98267/02727/167551.ts
+
+#EXTINF:-1 ,Nick jr
+http://xtv.ooo:8080/live/98267/02727/238531.ts
