@@ -377,9 +377,8 @@ https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/i
 #EXTINF:-1 ,Zina HD
 http://85.237.89.6:9590/live/zinatvwild/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,TOffe Drama
-{
-    "name": "TOFFEE Dramas VIP",
+#EXTINF:-1 ,{
+   "name": "TOFFEE Dramas VIP ,
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png",
     "origin": "https://bldcmprod-cdn.toffeelive.com",
