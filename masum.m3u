@@ -378,7 +378,17 @@ https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/i
 http://85.237.89.6:9590/live/zinatvwild/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,TOffe Drama
-http://lifetvbd.xyz:8080/play/q4sKYVqDE5wTYS6hxPP4jHivbZb_JLmXulbZtr5Z6aA/ts
+{
+    "name": "TOFFEE Dramas VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724781726:KeyName=prod_linear:Signature=9MM5qSeFdfulolwQSsW1pcXlFToVe1GE4sUFvEZdJK0ekj1Z4EoDDcyXT7EpWorv8FfvWK1agkLgarcFraKoDg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
 
 #EXTINF:-1 ,Bein Sports Hd
 http://xtv.ooo:8080/live/98267/02727/222532.m3u8
