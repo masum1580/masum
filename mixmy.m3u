@@ -411,7 +411,7 @@ http://xtv.ooo:8080/live/98267/02727/109970.ts
 
 #EXTM3U
 
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/9FPh1TRp/images-1.jpg",group-title="ALL MOVIE🎥" tvg-logo="https://i.postimg.cc/9FPh1TRp/images-1.jpg",Create Boy MASIM⤵️
+#EXTINF:-1group-title="ALL MOVIE🎥" tvg-logo="https://i.postimg.cc/9FPh1TRp/images-1.jpg",Create Boy MASUM⤵️
 
 #EXTINF:-1 tvg-logo="http://cdn1.discoveryftp.net/Movies/Hindi/2024/Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya/poster.jpg", Teri Baaton Mein Aisa Uljha Jiya
 http://45.250.20.254/collection/Movies/Hindi/Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya%20%282023%29%201080p%20CAMRip.mp4
