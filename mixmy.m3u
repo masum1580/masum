@@ -400,7 +400,7 @@ http://xtv.ooo:8080/live/98267/02727/167551.ts
 #EXTINF:-1 ,Nick jr
 http://xtv.ooo:8080/live/98267/02727/238531.ts
 
-#EXTINF:-1 , Star Movie 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7Y3vqD7/images.jpg", Star Movie HD
 http://xtv.ooo:8080/live/98267/02727/109970.ts
 
 #EXTINF:-1 ,
