@@ -399,3 +399,5 @@ http://xtv.ooo:8080/live/98267/02727/167551.ts
 
 #EXTINF:-1 ,Nick jr
 http://xtv.ooo:8080/live/98267/02727/238531.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb7QvpNrd2INV2mEu9xmdVtIXUNVNlDIcahA&usqp=CAU" group-title="MOVIE"
