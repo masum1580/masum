@@ -2,7 +2,7 @@
 #EXTINF:-1 ,group-title="Powered By Masum" tvg-logo="https://i.postimg.cc/6prmpnW2/replicate-prediction-x5ju2in6vjdtjjh4wso734j7xa.jpg",MASUM PLAY LIST📺
 https://imgur.com/Xb5aJF.mp4
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/zB5xLt09/images-2.jpg",Sangsad TV
+EXTINF:-1 tvg-logo="https://i.postimg.cc/zB5xLt09/images-2.jpg", Sangsad TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sangsad_tv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb7QvpNrd2INV2mEu9xmdVtIXUNVNlDIcahA&usqp=CAU", Btv HD
@@ -414,6 +414,6 @@ http://xtv.ooo:8080/live/98267/02727/109970.ts
 
 
 
-
+#EXTM3U
 #EXTINF:-1 ,group-title="Create By Masum" tvg-logo="https://i.postimg.cc/9FPh1TRp/images-1.jpg",ALL MOVIE 🎥
 https://imgur.com/Xb5aJF.mp4
