@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,group-title="Create Boy MASIM" tvg-logo="https://i.postimg.cc/6prmpnW2/replicate-prediction-x5ju2in6vjdtjjh4wso734j7xa.jpg",MASUM PLAY LIST📺
-https://imgur.com/Xb5aJF.mp4
+https://imgur.com/Xb5aJFC.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zB5xLt09/images-2.jpg", Sangsad TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sangsad_tv
@@ -400,7 +400,7 @@ http://xtv.ooo:8080/live/98267/02727/167551.ts
 #EXTINF:-1 ,Nick jr
 http://xtv.ooo:8080/live/98267/02727/238531.ts
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/X7Y3vqD7/images.jpg" ,Star Movie HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7Y3vqD7/images.jpg" ,Star Movie HD
 http://xtv.ooo:8080/live/98267/02727/109970.ts
 
 #EXTINF:-1 ,
