@@ -5,7 +5,7 @@ https://imgur.com/Xb5aJF.mp4
 #EXTINF:-1 ,Sangshad TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sangsad_tv
 
-#EXTINF:-1 ,BTv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb7QvpNrd2INV2mEu9xmdVtIXUNVNlDIcahA&usqp=CAU" group-title="BANGLA CHANNEL", Btv HD
 http://103.230.105.252:1935/live/btv/chunklist_w524649012.m3u8
 
 #EXTINF:-1 ,Jamuna TV
