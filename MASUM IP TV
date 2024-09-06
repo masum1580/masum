@@ -25,6 +25,9 @@ http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6WucURGJbGf1GNXxo46W8Jiw/m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png",JAMUNA TV
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxY9FhMS1Wk6dm1KFl6JMLZs/m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_f1OpuBSoUtJmupwAT6ggGhq5l0rTAsB_A&s", INDEPENDENT
+http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxeYOU0gRNjRNl4q97WQSTmA/m3u8
+
 #EXTINF:-1,tvg-logo="https://i.postimg.cc/xTHgN805/download-1.png",ATN BANGLA
 http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6WgTekfXBDW5evo5O-UjvSEY/m3u8
 
@@ -75,9 +78,6 @@ http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-Vxxd5-nTFACcRhYv5nhiW2oPE/m3u8
 
 #EXTINF:-1,GAZI TV HD
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-Vxxb3oAl9bVsOhNp2Cjcw2_UQ/m3u8
-
-#EXTINF:-1,INDEPENDENT TV
-http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxeYOU0gRNjRNl4q97WQSTmA/m3u8
 
 #EXTINF:-1,MAASRANGA TV HD
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxeHGbHJcoimCc4DAMInGUyg/m3u8
