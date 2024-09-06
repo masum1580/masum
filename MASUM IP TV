@@ -7,6 +7,9 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?
 #EXTINF:-1,tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png", TOFFEE Movies VIP 
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=toffee_movie
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB5xLt09/images-2.jpg", Sangsad TV
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sangsad_tv
+
 #EXTINF:-1,tvg-logo="https://i.postimg.cc/c4xnszth/BTV-World-Logo.png",BTV WORLD
 http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6Wi8kErbxFowAaocxUkMB-Iw/m3u8
 
@@ -18,6 +21,9 @@ http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6WoBGvRKAki5ablPIoNwhsQM/m3u8
 
 #EXTINF:-1,tvg-logo="https://i.postimg.cc/brFJzp52/svg.png",ASIAN TV HD
 http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6WucURGJbGf1GNXxo46W8Jiw/m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png",JAMUNA TV
+http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxY9FhMS1Wk6dm1KFl6JMLZs/m3u8
 
 #EXTINF:-1,tvg-logo="https://i.postimg.cc/xTHgN805/download-1.png",ATN BANGLA
 http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6WgTekfXBDW5evo5O-UjvSEY/m3u8
@@ -73,9 +79,6 @@ http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-Vxxb3oAl9bVsOhNp2Cjcw2_UQ/m3u8
 #EXTINF:-1,INDEPENDENT TV
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxeYOU0gRNjRNl4q97WQSTmA/m3u8
 
-#EXTINF:-1,JAMUNA TV
-http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxY9FhMS1Wk6dm1KFl6JMLZs/m3u8
-
 #EXTINF:-1,MAASRANGA TV HD
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxeHGbHJcoimCc4DAMInGUyg/m3u8
 
@@ -99,9 +102,6 @@ http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxeaSAHQLi0XJPPe6gWtgvX0/m3u8
 
 #EXTINF:-1,RTV HD
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-Vxxc1WDcSKhL4VEkT8_Ii3gpM/m3u8
-
-#EXTINF:-1,SANGSAD BANGLADESH
-http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxQPHRvrhluYw9Z77VL9fv-o/m3u8
 
 #EXTINF:-1,SATV HD
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxXsMbed3sokLAgj53537s24/m3u8
