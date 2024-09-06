@@ -4,38 +4,29 @@
 #EXTINF:-1,tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png", TOFFEE Dramas VIP 
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=toffee_drama 
 
-#EXTINF:-1,tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png", TOFFEE Movies VIP 
+#EXTINF:-1,tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png", TOFFEE Movies VIP 
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=toffee_movie
 
-#EXTINF:-1,BTV WORLD
+#EXTINF:-1,tvg-logo="https://i.postimg.cc/c4xnszth/BTV-World-Logo.png",BTV WORLD
 http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6Wi8kErbxFowAaocxUkMB-Iw/m3u8
 
-#EXTINF:-1,BTV CHAITTGRAM
+#EXTINF:-1,tvg-logo="https://i.postimg.cc/gkmTGGK7/1676193167149-3.png",BTV CHAITTGRAM
 http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6WhKbRd35uNCYH6XAmJplKHA/m3u8
 
-#EXTINF:-1,T SPORTS HD
+#EXTINF:-1,tvg-logo="https://i.postimg.cc/Dzx2PCwv/T-Sports-logo.png",T SPORTS HD
 http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6WoBGvRKAki5ablPIoNwhsQM/m3u8
 
-#EXTINF:-1,ASIAN TV HD
+#EXTINF:-1,tvg-logo="https://i.postimg.cc/brFJzp52/svg.png",ASIAN TV HD
 http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6WucURGJbGf1GNXxo46W8Jiw/m3u8
 
-#EXTINF:-1,ATN BANGLA
+#EXTINF:-1,tvg-logo="https://i.postimg.cc/xTHgN805/download-1.png",ATN BANGLA
 http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6WgTekfXBDW5evo5O-UjvSEY/m3u8
 
-#EXTINF:-1,ATN NEWS
+#EXTINF:-1,tvg-logo="https://i.postimg.cc/v8C2NGyG/images-2.png",ATN NEWS
 http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6WoXxQbnugPtuRl-nUR8QXFA/m3u8
 
-#EXTINF:-1,BANGLA TV HD
+#EXTINF:-1,tvg-logo="https://i.postimg.cc/G2ybnvCG/Bangla-TV-Logo.png",BANGLA TV HD
 http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6Wvv53OCO2bcKQcnzkCtL34M/m3u8
-
-#EXTINF:-1,ANANDA TV
-http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6Wlg06eZyMwTtxYrpblJJ9sg/m3u8
-
-#EXTINF:-1,BANGLA VISION
-http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6WkN4FDhyV7J3Zy1wLSl_8XM/m3u8
-
-#EXTINF:-1,BOISHAKHI TV HD
-http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxfwJFUIj16v7Y6YfWc5Nz2Q/m3u8
 
 #EXTINF:-1,CHANNEL I HD
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxQMaSY4TLLJxDz5__jSVDNs/m3u8
