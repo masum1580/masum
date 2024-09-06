@@ -28,6 +28,15 @@ http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6WoXxQbnugPtuRl-nUR8QXFA/m3u8
 #EXTINF:-1,tvg-logo="https://i.postimg.cc/G2ybnvCG/Bangla-TV-Logo.png",BANGLA TV HD
 http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6Wvv53OCO2bcKQcnzkCtL34M/m3u8
 
+#EXTINF:-1,tvg-logo="https://i.postimg.cc/BnKLNP8L/Ananda-TV-Logo.png",ANANDA TV
+http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6Wlg06eZyMwTtxYrpblJJ9sg/m3u8
+
+#EXTINF:-1,tvg-logo="https://i.postimg.cc/8zpRyY71/download.jpg",BANGLA VISION
+http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6WkN4FDhyV7J3Zy1wLSl_8XM/m3u8
+
+#EXTINF:-1,tvg-logo="https://i.postimg.cc/fyBF6P1y/images.png",BOISHAKHI Tv
+http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxfwJFUIj16v7Y6YfWc5Nz2Q/m3u8
+
 #EXTINF:-1,CHANNEL I HD
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxQMaSY4TLLJxDz5__jSVDNs/m3u8
 
