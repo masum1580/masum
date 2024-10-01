@@ -4,17 +4,17 @@
 https://imgur.com/Xb5aJFC.mp4
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 xui-id="177" tvg-id="" tvg-name="BTV WORLD" tvg-logo="http://172.16.29.34:80/images/f971ee74d44dee9df292af97ba2c29ba.png" group-title="ALL CHANNELS",BTV WORLD
+#EXTINF:-1 xui-id="177" tvg-id="" tvg-name="BTV WORLD" tvg-logo="http://172.16.29.34:80/images/f971ee74d44dee9df292af97ba2c29ba.png" group-title="WI-FI",BTV WORLD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA--NpWI16nUzntdc3QeimzQ/ts
-#EXTINF:-1 xui-id="179" tvg-id="" tvg-name="BTV CHAITTGRAM" tvg-logo="http://172.16.29.34:80/images/9ff258f235fd003b982d6c95016ab311.png" group-title="ALL CHANNELS",BTV CHAITTGRAM
+#EXTINF:-1 xui-id="179" tvg-id="" tvg-name="BTV CHAITTGRAM" tvg-logo="http://172.16.29.34:80/images/9ff258f235fd003b982d6c95016ab311.png" group-title="WI-FI",BTV CHAITTGRAM
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA39dH_wQ8huJLDBhxqHjDDw/ts
-#EXTINF:-1 xui-id="181" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png" group-title="ALL CHANNELS",T SPORTS HD
+#EXTINF:-1 xui-id="181" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png" group-title="WI-FI",T SPORTS HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/ts
-#EXTINF:-1 xui-id="184" tvg-id="" tvg-name="ASIAN TV HD" tvg-logo="http://172.16.29.34:80/images/150926de339b5fe059cac92b77636b57.png" group-title="ALL CHANNELS",ASIAN TV HD
+#EXTINF:-1 xui-id="184" tvg-id="" tvg-name="ASIAN TV HD" tvg-logo="http://172.16.29.34:80/images/150926de339b5fe059cac92b77636b57.png" group-title="WI-FI",ASIAN TV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3oPDxxNOHaf1vCi1T6JNGA/ts
-#EXTINF:-1 xui-id="187" tvg-id="ATNBANG" tvg-name="ATN BANGLA" tvg-logo="http://172.16.29.34:80/images/caacb3e64c6291d055b5d2e85fc3f16b.png" group-title="ALL CHANNELS",ATN BANGLA
+#EXTINF:-1 xui-id="187" tvg-id="ATNBANG" tvg-name="ATN BANGLA" tvg-logo="http://172.16.29.34:80/images/caacb3e64c6291d055b5d2e85fc3f16b.png" group-title="WI-FI",ATN BANGLA
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4XcHuahYnOSqNLrioPHoVI/ts
-#EXTINF:-1 xui-id="190" tvg-id="ATNNW" tvg-name="ATN NEWS" tvg-logo="http://172.16.29.34:80/images/b5654a5be0b7fd5bdad19da12d6369c9.png" group-title="ALL CHANNELS",ATN NEWS
+#EXTINF:-1 xui-id="190" tvg-id="ATNNW" tvg-name="ATN NEWS" tvg-logo="http://172.16.29.34:80/images/b5654a5be0b7fd5bdad19da12d6369c9.png" group-title="WI-FI",ATN NEWS
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxbr7tznLQfRHlkqWyjbZrc/ts
 #EXTINF:-1 xui-id="191" tvg-id="BANGLA" tvg-name="BANGLA TV HD" tvg-logo="http://172.16.29.34:80/images/3c275673920314b81963040d74b3100a.png" group-title="ALL CHANNELS",BANGLA TV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAykcj9yYbH3cee1MNdLo6JY/ts
