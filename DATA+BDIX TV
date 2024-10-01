@@ -204,63 +204,65 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7XznN44TSPx21_EdXW9-bo/ts
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6jLJs-x9JkMCsHpFukynww/ts
 #EXTINF:-1 xui-id="401" tvg-id="ZEEBCIN" tvg-name="ZEE BANGLA CINEMA HD" tvg-logo="http://172.16.29.34:80/images/79cbfb332a7df4d573a609659cb78ca7.png" group-title="WI-FI",ZEE BANGLA CINEMA HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwle_5XXDJlfauzFE6F8VsQ/ts
-#EXTINF:-1 xui-id="402" tvg-id="" tvg-name="ZEE NEWS" tvg-logo="http://172.16.29.34:80/images/30d10725a8cef627279bf4364bcdf0c9.png" group-title="ALL CHANNELS",ZEE NEWS
+#EXTINF:-1 xui-id="402" tvg-id="" tvg-name="ZEE NEWS" tvg-logo="http://172.16.29.34:80/images/30d10725a8cef627279bf4364bcdf0c9.png" group-title="WI-FI",ZEE NEWS
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwp9F7M7dy-hUjichD4O5TA/ts
-#EXTINF:-1 xui-id="403" tvg-id="" tvg-name="R.TV BANGLA NEWS" tvg-logo="http://172.16.29.34:80/images/67c2ebad2aa9abce6f4d9cd7fc0f13f5.png" group-title="ALL CHANNELS",R.TV BANGLA NEWS
+#EXTINF:-1 xui-id="403" tvg-id="" tvg-name="R.TV BANGLA NEWS" tvg-logo="http://172.16.29.34:80/images/67c2ebad2aa9abce6f4d9cd7fc0f13f5.png" group-title="WI-FI",R.TV BANGLA NEWS
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4rfRWhw54IpB93bbx7_19Y/ts
-#EXTINF:-1 xui-id="404" tvg-id="" tvg-name="& PICTURE HD" tvg-logo="http://172.16.29.34:80/images/6e0762d3776fc90807cf8371a82433d1.png" group-title="ALL CHANNELS",& PICTURE HD
+#EXTINF:-1 xui-id="404" tvg-id="" tvg-name="& PICTURE HD" tvg-logo="http://172.16.29.34:80/images/6e0762d3776fc90807cf8371a82433d1.png" group-title="WI-FI",& PICTURE HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_vrXS8PTCO9UR3nth01qUY/ts
-#EXTINF:-1 xui-id="406" tvg-id="" tvg-name="STAR SPORTS HD1 CB" tvg-logo="http://172.16.29.34:80/images/904de69c66d442610adafe67fa97b90a.png" group-title="ALL CHANNELS",STAR SPORTS HD1 CB
+#EXTINF:-1 xui-id="406" tvg-id="" tvg-name="STAR SPORTS HD1 CB" tvg-logo="http://172.16.29.34:80/images/904de69c66d442610adafe67fa97b90a.png" group-title="WI-FI",STAR SPORTS HD1 CB
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1Gjd37lfHfc1DNAOAa4jsg/ts
-#EXTINF:-1 xui-id="409" tvg-id="" tvg-name="CGTN NEWS" tvg-logo="http://172.16.29.34:80/images/0e3db67d529e7c7e9d48db8b0fe0e41d.png" group-title="ALL CHANNELS",CGTN NEWS
+#EXTINF:-1 xui-id="409" tvg-id="" tvg-name="CGTN NEWS" tvg-logo="http://172.16.29.34:80/images/0e3db67d529e7c7e9d48db8b0fe0e41d.png" group-title="WI-FI",CGTN NEWS
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8Rdu2rV1LqQ1_nlHo2NjTA/ts
-#EXTINF:-1 xui-id="411" tvg-id="" tvg-name="ABP NEWS" tvg-logo="http://172.16.29.34:80/images/8840535f3da4d7701ff436a787a9e5b5.png" group-title="ALL CHANNELS",ABP NEWS
+#EXTINF:-1 xui-id="411" tvg-id="" tvg-name="ABP NEWS" tvg-logo="http://172.16.29.34:80/images/8840535f3da4d7701ff436a787a9e5b5.png" group-title="WI-FI",ABP NEWS
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzp7OSZQJzZcZLRrRYRy28k/ts
-#EXTINF:-1 xui-id="413" tvg-id="" tvg-name="WILLOW CRICKET" tvg-logo="http://172.16.29.34:80/images/3e24db626e8ad785de0c4803bf445d72.png" group-title="ALL CHANNELS",WILLOW CRICKET
+#EXTINF:-1 xui-id="413" tvg-id="" tvg-name="WILLOW CRICKET" tvg-logo="http://172.16.29.34:80/images/3e24db626e8ad785de0c4803bf445d72.png" group-title="WI-FI",WILLOW CRICKET
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1g-_KkzBq-pqdOeKpZdC-0/ts
-#EXTINF:-1 xui-id="423" tvg-id="" tvg-name="TNT SPORTS 2 HD" tvg-logo="http://172.16.29.34:80/images/818973c6316ceb56e9492ad9acfdb448.png" group-title="ALL CHANNELS",TNT SPORTS 2 HD
+#EXTINF:-1 xui-id="423" tvg-id="" tvg-name="TNT SPORTS 2 HD" tvg-logo="http://172.16.29.34:80/images/818973c6316ceb56e9492ad9acfdb448.png" group-title="WI-FI",TNT SPORTS 2 HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2YfXNYgfMH_pqpdNuFoqi8/ts
-#EXTINF:-1 xui-id="424" tvg-id="" tvg-name="GEO SUPER" tvg-logo="http://172.16.29.34:80/images/e376dd7c7b6276f29a37c513e356313e.png" group-title="ALL CHANNELS",GEO SUPER
+#EXTINF:-1 xui-id="424" tvg-id="" tvg-name="GEO SUPER" tvg-logo="http://172.16.29.34:80/images/e376dd7c7b6276f29a37c513e356313e.png" group-title="WI-FI",GEO SUPER
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2NnBfpteKtx5uGLNAgM5Zs/ts
-#EXTINF:-1 xui-id="439" tvg-id="" tvg-name="9XM" tvg-logo="http://172.16.29.34:80/images/d3001a0d11ea53f509990918e21ffa32.png" group-title="ALL CHANNELS",9XM
+#EXTINF:-1 xui-id="439" tvg-id="" tvg-name="9XM" tvg-logo="http://172.16.29.34:80/images/d3001a0d11ea53f509990918e21ffa32.png" group-title="WI-FI",9XM
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5npyVJzmcSk1f8iLT69XKc/ts
-#EXTINF:-1 xui-id="440" tvg-id="" tvg-name="MASTIII" tvg-logo="http://172.16.29.34:80/images/63ddaa43f53400d3b6cfcadec39131d6.png" group-title="ALL CHANNELS",MASTIII
+#EXTINF:-1 xui-id="440" tvg-id="" tvg-name="MASTIII" tvg-logo="http://172.16.29.34:80/images/63ddaa43f53400d3b6cfcadec39131d6.png" group-title="WI-FI",MASTIII
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9KfTa7j96aMi6krK_pcma8/ts
-#EXTINF:-1 xui-id="441" tvg-id="" tvg-name="DURONTO TV HD" tvg-logo="http://172.16.29.34:80/images/5c6fdb54228189dca55fcd94e601f24c.png" group-title="ALL CHANNELS",DURONTO TV HD
+#EXTINF:-1 xui-id="441" tvg-id="" tvg-name="DURONTO TV HD" tvg-logo="http://172.16.29.34:80/images/5c6fdb54228189dca55fcd94e601f24c.png" group-title="WI-FI",DURONTO TV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0Wn0CC-9ZOBT1v4cuqhmDU/ts
-#EXTINF:-1 xui-id="442" tvg-id="" tvg-name="GREEN TV HD" tvg-logo="http://172.16.29.34:80/images/c40246a3420b7fa2fc4195bea4263ee8.png" group-title="ALL CHANNELS",GREEN TV HD
+#EXTINF:-1 xui-id="442" tvg-id="" tvg-name="GREEN TV HD" tvg-logo="http://172.16.29.34:80/images/c40246a3420b7fa2fc4195bea4263ee8.png" group-title="WI-FI",GREEN TV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8C9U31ReCL0JzIodmiy7UM/ts
-#EXTINF:-1 xui-id="443" tvg-id="" tvg-name="PTV SPORTS HD" tvg-logo="http://172.16.29.34:80/images/418ee8f3ffc10df5e363d4b743b52d50.png" group-title="ALL CHANNELS",PTV SPORTS HD
+#EXTINF:-1 xui-id="443" tvg-id="" tvg-name="PTV SPORTS HD" tvg-logo="http://172.16.29.34:80/images/418ee8f3ffc10df5e363d4b743b52d50.png" group-title="WI-FI",PTV SPORTS HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2osZeAdagOcS1vRJAYWF_Y/ts
-#EXTINF:-1 xui-id="444" tvg-id="" tvg-name="SANGEET BANGLA" tvg-logo="http://172.16.29.34:80/images/387cf4377a1b035f81d9291388cc9277.png" group-title="ALL CHANNELS",SANGEET BANGLA
+#EXTINF:-1 xui-id="444" tvg-id="" tvg-name="SANGEET BANGLA" tvg-logo="http://172.16.29.34:80/images/387cf4377a1b035f81d9291388cc9277.png" group-title="WI-FI",SANGEET BANGLA
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9AHn1Xwd7BtGPZVaIfJVf8/ts
-#EXTINF:-1 xui-id="446" tvg-id="" tvg-name="BTV NATIONAL HD" tvg-logo="http://172.16.29.34:80/images/e285c0b12048a23e3b4674c6258dbd8d.png" group-title="ALL CHANNELS",BTV NATIONAL HD
+#EXTINF:-1 xui-id="446" tvg-id="" tvg-name="BTV NATIONAL HD" tvg-logo="http://172.16.29.34:80/images/e285c0b12048a23e3b4674c6258dbd8d.png" group-title="WI-FI",BTV NATIONAL HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_aUpnu3HM2-2nxHKbDe3FA/ts
-#EXTINF:-1 xui-id="447" tvg-id="" tvg-name="GEO SUPER SPORTS" tvg-logo="http://172.16.29.34:80/images/e376dd7c7b6276f29a37c513e356313e.png" group-title="ALL CHANNELS",GEO SUPER SPORTS
+#EXTINF:-1 xui-id="447" tvg-id="" tvg-name="GEO SUPER SPORTS" tvg-logo="http://172.16.29.34:80/images/e376dd7c7b6276f29a37c513e356313e.png" group-title="WI-FI",GEO SUPER SPORTS
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxp1mLgFdzrXj-H1SqgcIpY/ts
-#EXTINF:-1 xui-id="448" tvg-id="" tvg-name="SONY ATTH" tvg-logo="http://172.16.29.34:80/images/89375013d1ad3ae58a7519a2e3d8b830.png" group-title="ALL CHANNELS",SONY ATTH
+#EXTINF:-1 xui-id="448" tvg-id="" tvg-name="SONY ATTH" tvg-logo="http://172.16.29.34:80/images/89375013d1ad3ae58a7519a2e3d8b830.png" group-title="WI-FI",SONY ATTH
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8w8iYeaX0ac2OW28RzGY90/ts
-#EXTINF:-1 xui-id="455" tvg-id="" tvg-name="BEIN SPORTS HD" tvg-logo="" group-title="ALL CHANNELS",BEIN SPORTS HD
+#EXTINF:-1 xui-id="455" tvg-id="" tvg-name="BEIN SPORTS HD" tvg-logo="" group-title="WI-FI",BEIN SPORTS HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA36e4vV7XSrHOSHiactw9ns/ts
-#EXTINF:-1 xui-id="460" tvg-id="TENCRIC" tvg-name="TEN CRICKET HD" tvg-logo="http://172.16.29.34:80/images/ec9f4f43d1fd1b4933d47724aed972db.png" group-title="ALL CHANNELS",TEN CRICKET HD
+#EXTINF:-1 xui-id="460" tvg-id="TENCRIC" tvg-name="TEN CRICKET HD" tvg-logo="http://172.16.29.34:80/images/ec9f4f43d1fd1b4933d47724aed972db.png" group-title="WI-FI",TEN CRICKET HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxYmOdwYKD9TaHZUX2ACjo8/ts
-#EXTINF:-1 xui-id="461" tvg-id="" tvg-name="T SPORTS FHD" tvg-logo="http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png" group-title="ALL CHANNELS",T SPORTS FHD
+#EXTINF:-1 xui-id="461" tvg-id="" tvg-name="T SPORTS FHD" tvg-logo="http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png" group-title="WI-FI",T SPORTS FHD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7DzImxWwZd-nNy7aKwgGzI/ts
-#EXTINF:-1 xui-id="464" tvg-id="" tvg-name="BEIN  SPORTS 2 ENG" tvg-logo="" group-title="ALL CHANNELS",BEIN  SPORTS 2 ENG
+#EXTINF:-1 xui-id="464" tvg-id="" tvg-name="BEIN  SPORTS 2 ENG" tvg-logo="" group-title="WI-FI",BEIN  SPORTS 2 ENG
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3rAU3tEQJkgiMFSDMBcrcw/ts
-#EXTINF:-1 xui-id="465" tvg-id="" tvg-name="BEIN  SPORTS 1 ENG" tvg-logo="" group-title="ALL CHANNELS",BEIN  SPORTS 1 ENG
+#EXTINF:-1 xui-id="465" tvg-id="" tvg-name="BEIN  SPORTS 1 ENG" tvg-logo="" group-title="WI-FI",BEIN  SPORTS 1 ENG
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA88ymJzFiqlYQGcDDiw6_3Q/ts
-#EXTINF:-1 xui-id="466" tvg-id="" tvg-name="BEIN SPORTS 3 ENG" tvg-logo="" group-title="ALL CHANNELS",BEIN SPORTS 3 ENG
+#EXTINF:-1 xui-id="466" tvg-id="" tvg-name="BEIN SPORTS 3 ENG" tvg-logo="" group-title="WI-FI",BEIN SPORTS 3 ENG
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwk0wF2fXmtZee4HPoCd7Jo/ts
-#EXTINF:-1 xui-id="467" tvg-id="" tvg-name="WILLOW XTRA HD" tvg-logo="" group-title="ALL CHANNELS",WILLOW XTRA HD
+#EXTINF:-1 xui-id="467" tvg-id="" tvg-name="WILLOW XTRA HD" tvg-logo="" group-title="WI-FI",WILLOW XTRA HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxzY-hOBEGbGvVX98TVDy-U/ts
-#EXTINF:-1 xui-id="468" tvg-id="" tvg-name="SUPER PREMIER LEAGUE HD" tvg-logo="" group-title="ALL CHANNELS",SUPER PREMIER LEAGUE HD
+#EXTINF:-1 xui-id="468" tvg-id="" tvg-name="SUPER PREMIER LEAGUE HD" tvg-logo="" group-title="WI-FI",SUPER PREMIER LEAGUE HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9rsD7HSqulfmiwa28oPDYw/ts
-#EXTINF:-1 xui-id="469" tvg-id="" tvg-name="SUPER SPORTS CRICKET HD" tvg-logo="" group-title="ALL CHANNELS",SUPER SPORTS CRICKET HD
+#EXTINF:-1 xui-id="469" tvg-id="" tvg-name="SUPER SPORTS CRICKET HD" tvg-logo="" group-title="WI-FI",SUPER SPORTS CRICKET HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1k_gAKFpRKgkOIIHQ-efNw/ts
-#EXTINF:-1 xui-id="470" tvg-id="" tvg-name="SUPER LALIGA HD" tvg-logo="" group-title="ALL CHANNELS",SUPER LALIGA HD
+#EXTINF:-1 xui-id="470" tvg-id="" tvg-name="SUPER LALIGA HD" tvg-logo="" group-title="WI-FI",SUPER LALIGA HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1H6lHsiJVQxI52n77SIz4c/ts
 
+
+DATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATA
 
 #EXTINF:-1 group-title="DATA" tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png",Millennium TV USA
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8
