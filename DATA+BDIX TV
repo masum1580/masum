@@ -16,31 +16,31 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3oPDxxNOHaf1vCi1T6JNGA/ts
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4XcHuahYnOSqNLrioPHoVI/ts
 #EXTINF:-1 xui-id="190" tvg-id="ATNNW" tvg-name="ATN NEWS" tvg-logo="http://172.16.29.34:80/images/b5654a5be0b7fd5bdad19da12d6369c9.png" group-title="WI-FI",ATN NEWS
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxbr7tznLQfRHlkqWyjbZrc/ts
-#EXTINF:-1 xui-id="191" tvg-id="BANGLA" tvg-name="BANGLA TV HD" tvg-logo="http://172.16.29.34:80/images/3c275673920314b81963040d74b3100a.png" group-title="ALL CHANNELS",BANGLA TV HD
+#EXTINF:-1 xui-id="191" tvg-id="BANGLA" tvg-name="BANGLA TV HD" tvg-logo="http://172.16.29.34:80/images/3c275673920314b81963040d74b3100a.png" group-title="WI-FI",BANGLA TV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAykcj9yYbH3cee1MNdLo6JY/ts
-#EXTINF:-1 xui-id="194" tvg-id="" tvg-name="ANANDA TV" tvg-logo="http://172.16.29.34:80/images/eb50f4f45c47ec41da486652ce03e597.png" group-title="ALL CHANNELS",ANANDA TV
+#EXTINF:-1 xui-id="194" tvg-id="" tvg-name="ANANDA TV" tvg-logo="http://172.16.29.34:80/images/eb50f4f45c47ec41da486652ce03e597.png" group-title="WI-FI",ANANDA TV
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxAUAcG73OqMD547yCNUV9s/ts
-#EXTINF:-1 xui-id="196" tvg-id="BANGLAV" tvg-name="BANGLA VISION" tvg-logo="http://172.16.29.34:80/images/78fc953a1f36d3bca8b28c60bebd899e.png" group-title="ALL CHANNELS",BANGLA VISION
+#EXTINF:-1 xui-id="196" tvg-id="BANGLAV" tvg-name="BANGLA VISION" tvg-logo="http://172.16.29.34:80/images/78fc953a1f36d3bca8b28c60bebd899e.png" group-title="WI-FI",BANGLA VISION
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxZs0o8I4EG1wfbna0vngpo/ts
-#EXTINF:-1 xui-id="201" tvg-id="" tvg-name="BOISHAKHI TV HD" tvg-logo="http://172.16.29.34:80/images/9269a11c1a8986673c0a09d24e711828.png" group-title="ALL CHANNELS",BOISHAKHI TV HD
+#EXTINF:-1 xui-id="201" tvg-id="" tvg-name="BOISHAKHI TV HD" tvg-logo="http://172.16.29.34:80/images/9269a11c1a8986673c0a09d24e711828.png" group-title="WI-FI",BOISHAKHI TV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_FyNforKHGnrkd_iikb_Hk/ts
-#EXTINF:-1 xui-id="204" tvg-id="CHI" tvg-name="CHANNEL I HD" tvg-logo="http://172.16.29.34:80/images/fdc864c948ed26cfb28123b32ee080b6.png" group-title="ALL CHANNELS",CHANNEL I HD
+#EXTINF:-1 xui-id="204" tvg-id="CHI" tvg-name="CHANNEL I HD" tvg-logo="http://172.16.29.34:80/images/fdc864c948ed26cfb28123b32ee080b6.png" group-title="WI-FI",CHANNEL I HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9wNRL3H3YXOqIWwmA39Dug/ts
-#EXTINF:-1 xui-id="208" tvg-id="CHAN24" tvg-name="CHANNEL24 HD" tvg-logo="http://172.16.29.34:80/images/685afab95090a16e6bb9a5d949f100f8.png" group-title="ALL CHANNELS",CHANNEL24 HD
+#EXTINF:-1 xui-id="208" tvg-id="CHAN24" tvg-name="CHANNEL24 HD" tvg-logo="http://172.16.29.34:80/images/685afab95090a16e6bb9a5d949f100f8.png" group-title="WI-FI",CHANNEL24 HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7xUx0YT-eZSOJM5vzFXQc0/ts
-#EXTINF:-1 xui-id="210" tvg-id="CH9" tvg-name="CHANNEL9 HD" tvg-logo="http://172.16.29.34:80/images/7098e69fb209aa6ac0111bdb3e355dee.png" group-title="ALL CHANNELS",CHANNEL9 HD
+#EXTINF:-1 xui-id="210" tvg-id="CH9" tvg-name="CHANNEL9 HD" tvg-logo="http://172.16.29.34:80/images/7098e69fb209aa6ac0111bdb3e355dee.png" group-title="WI-FI",CHANNEL9 HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1gT7R-Dng6vTzdSUSVzJSo/ts
-#EXTINF:-1 xui-id="213" tvg-id="" tvg-name="DBC NEWS HD" tvg-logo="http://172.16.29.34:80/images/c799263234f97715c87899b48e8b2c01.png" group-title="ALL CHANNELS",DBC NEWS HD
+#EXTINF:-1 xui-id="213" tvg-id="" tvg-name="DBC NEWS HD" tvg-logo="http://172.16.29.34:80/images/c799263234f97715c87899b48e8b2c01.png" group-title="WI-FI",DBC NEWS HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_c-juLWCidG_f87qmcpH-o/ts
-#EXTINF:-1 xui-id="216" tvg-id="" tvg-name="DEEPTO TV HD" tvg-logo="http://172.16.29.34:80/images/b6069fe530432541f89118683c4150f4.png" group-title="ALL CHANNELS",DEEPTO TV HD
+#EXTINF:-1 xui-id="216" tvg-id="" tvg-name="DEEPTO TV HD" tvg-logo="http://172.16.29.34:80/images/b6069fe530432541f89118683c4150f4.png" group-title="WI-FI",DEEPTO TV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_7KUEPhrDuFXaAlxtVkpKE/ts
-#EXTINF:-1 xui-id="219" tvg-id="" tvg-name="DESH TV" tvg-logo="http://172.16.29.34:80/images/a7ae471ab8f62fe023e978c86c486419.png" group-title="ALL CHANNELS",DESH TV
+#EXTINF:-1 xui-id="219" tvg-id="" tvg-name="DESH TV" tvg-logo="http://172.16.29.34:80/images/a7ae471ab8f62fe023e978c86c486419.png" group-title="WI-FI",DESH TV
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzCO6nUZdf53Bsy0Mzt6WU4/ts
-#EXTINF:-1 xui-id="221" tvg-id="" tvg-name="EKHON TV" tvg-logo="http://172.16.29.34:80/images/471c1b4ad65ee968648be0d2919ee8bb.png" group-title="ALL CHANNELS",EKHON TV
+#EXTINF:-1 xui-id="221" tvg-id="" tvg-name="EKHON TV" tvg-logo="http://172.16.29.34:80/images/471c1b4ad65ee968648be0d2919ee8bb.png" group-title="WI-FI",EKHON TV
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2BVl1RSX4ezkUjtgNCVHQ4/ts
-#EXTINF:-1 xui-id="224" tvg-id="" tvg-name="EKATTOR TV HD" tvg-logo="http://172.16.29.34:80/images/7793eb7557348ffda0d98e9e35924069.png" group-title="ALL CHANNELS",EKATTOR TV HD
+#EXTINF:-1 xui-id="224" tvg-id="" tvg-name="EKATTOR TV HD" tvg-logo="http://172.16.29.34:80/images/7793eb7557348ffda0d98e9e35924069.png" group-title="WI-FI",EKATTOR TV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6mXC-KJP5guDTqwni-oYlQ/ts
-#EXTINF:-1 xui-id="227" tvg-id="" tvg-name="GEENBAGLA HD" tvg-logo="http://172.16.29.34:80/images/d35dc529690d95f1324fa9462db9c574.png" group-title="ALL CHANNELS",GEENBAGLA HD
+#EXTINF:-1 xui-id="227" tvg-id="" tvg-name="GEENBAGLA HD" tvg-logo="http://172.16.29.34:80/images/d35dc529690d95f1324fa9462db9c574.png" group-title="WI-FI",GEENBAGLA HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA44mpc9cyqAjXz1_rFOqEqM/ts
 #EXTINF:-1 xui-id="230" tvg-id="BBCCANZ" tvg-name="BBC CBEEBIES HD" tvg-logo="http://172.16.29.34:80/images/f5247d743781c8a59b939386fbf73a37.png" group-title="ALL CHANNELS",BBC CBEEBIES HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA47gNSB7wvuox-RI3RUmV6Y/ts
