@@ -740,9 +740,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
  
 
-
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 group-title="ALL MOVIE" tvg-logo="https://i.postimg.cc/WpmpcKkx/images.jpg",Md: MASUM RANA
 https://imgur.com/Xb5aJFC.mp4
 
-#EXTINF:-1 group-title="ALL MOVIE" tvg-logo="https://i.postimg.cc/WpmpcKkx/images.jpg",Salaar HD
+#EXTINF:-1 group-title="ALL MOVIE" tvg-logo="https://i.postimg.cc/L4kPQx68/MV5-BYjc4-Zm-Jk-Ym-Mt-ZDBj-Zi00-MTYy-LWIx-NDct-MTU2-ODI3-OWRi-NTc5-Xk-Ey-Xk-Fqc-Gc-V1.jpg",Salaar HD
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282023%29/Salaar%20%282023%29%201080p%20WEB-DL%20%5BHindi%20Dubbed%5D/Salaar%202023%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mp4
