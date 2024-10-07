@@ -744,14 +744,14 @@ https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3
 #EXTINF:-1 group-title="ALL MOVIE" tvg-logo="https://i.postimg.cc/WpmpcKkx/images.jpg",Md: MASUM RANA
 https://imgur.com/Xb5aJFC.mp4
 
-#EXTINF:-1 tvg-logo="ALL MOVIE" https://i.postimg.cc/L4kPQx68/MV5-BYjc4-Zm-Jk-Ym-Mt-ZDBj-Zi00-MTYy-LWIx-NDct-MTU2-ODI3-OWRi-NTc5-Xk-Ey-Xk-Fqc-Gc-V1.jpg",Salaar HD
+#EXTINF:-1 group-titel="ALL MOVIE" https://i.postimg.cc/L4kPQx68/MV5-BYjc4-Zm-Jk-Ym-Mt-ZDBj-Zi00-MTYy-LWIx-NDct-MTU2-ODI3-OWRi-NTc5-Xk-Ey-Xk-Fqc-Gc-V1.jpg",Salaar HD
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282023%29/Salaar%20%282023%29%201080p%20WEB-DL%20%5BHindi%20Dubbed%5D/Salaar%202023%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mp4
 
-#EXTINF:-1 tvg-logo="ALL MOVIE" https://i.postimg.cc/Vvs4RwbT/Sarkar-2018-poster.jpg",Sarkar 2018 HD
+#EXTINF:-1 group-titel="ALL MOVIE" tvg-logo="https://i.postimg.cc/Vvs4RwbT/Sarkar-2018-poster.jpg",Sarkar 2018 HD
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/2018/Sarkar%20%282018%29%20Tamil%201080p%20WEB-DL/Sarkar.2018.1080p.SUNNXT.WEB-DL.DD%2B5.1.Atmos.HEVC-REVOLT_h264.mp4
 
-#EXTINF:-1 tvg-logo="ALL MOVIE" https://i.postimg.cc/wBQ4R90z/images.jpg",Toofan 2024 HD
+#EXTINF:-1 group-titel="ALL MOVIE" tvg-logo="https://i.postimg.cc/wBQ4R90z/images.jpg",Toofan 2024 HD
 https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
 
-#EXTINF:-1 tvg-logo="ALL MOVIE" https://i.postimg.cc/sD3BQsbK/images.jpg", Rajkumar 2024 HD
+#EXTINF:-1 group-titel="ALL MOVIE" tvg-logo="https://i.postimg.cc/sD3BQsbK/images.jpg", Rajkumar 2024 HD
 https://pixeldra.in/api/file/AhWcpTvN?download
