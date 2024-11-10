@@ -1,14 +1,10 @@
 https://imgur.com/0x7rSkk.mp4
 #EXTM3U8
 
-#EXTINF:-1 ,group-title="ইসলাম" tvg-logo="https://i.postimg.cc/T3XjVLnk/images-2-removebg-preview.png", কালিমা শাহাদাত 
-https://imgur.com/mO4uEbO.mp4
-
 #EXTINF:-1 ,group-title="ADDMIN MASUM" tvg-logo="https://i.postimg.cc/6prmpnW2/replicate-prediction-x5ju2in6vjdtjjh4wso734j7xa.jpg",MASUM RANA
 https://imgur.com/Xb5aJFC.mp4
 
 #EXTINF:-1 ,group-title="TOFFE LIVE" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png", TOFFEE Sports LIVE
-https://fdev.short.gy/IndVbanxRanapk.m3u8
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 xui-id="177" tvg-id="" tvg-name="BTV WORLD" tvg-logo="http://172.16.29.34:80/images/f971ee74d44dee9df292af97ba2c29ba.png" group-title="WI-FI",BTV WORLD
