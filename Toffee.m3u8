@@ -39,14 +39,14 @@ https://shounwifi.net/api/toffee/ferdos.php?id=sony_aath
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="HINDI",SONY MAX HD
 https://shounwifi.net/api/toffee/ferdos.php?id=set_max_hd
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="HINDI",SONY MAX 2
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_max_2
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="HINDI",SONY ENTERTAINMENT TELEVISION HD
 https://shounwifi.net/api/toffee/ferdos.php?id=sony_entertainmnt_hd
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="HINDI",SONY SAB HD
 https://shounwifi.net/api/toffee/ferdos.php?id=sony_sab_hd
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="HINDI",SONY MAX 2
-https://shounwifi.net/api/toffee/ferdos.php?id=sony_max_2
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="HINDI",SONY WAH
 https://shounwifi.net/api/toffee/ferdos.php?id=sony_wah
