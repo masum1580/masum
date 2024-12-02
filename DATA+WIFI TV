@@ -390,43 +390,10 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1k_gAKFpRKgkOIIHQ-efNw/ts
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1H6lHsiJVQxI52n77SIz4c/ts
 
 
+
 DATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATADATA
 
-#EXTINF:-1 group-title="DATA" tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png",Millennium TV USA
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="DATA" tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png",Millennium TV 24
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mnews24.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="DATA" tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png",Makkah TV
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="DATA" tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png",JonmoBhumi TV
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="DATA" tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png",Jamuna TV
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="DATA" tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png",Jagoroni TV
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagoronitv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="DATA" tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png",JagoNews24 TV
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="DATA" tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png",Islam TV
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamtv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="DATA" tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png",Iqra Bangla
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="DATA" tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png",iON TV UK
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="DATA" tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png",Green TV
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="DATA" tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png",DW News
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="DATA" tvg-logo="https://i.ibb.co.com/rQmTNKf/20240907-003057.png",SANGSAD TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sangsad_tv
@@ -741,7 +708,10 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
  
 
+
 .................................................................................................................................
+
+
 #EXTINF:-1 ,group-title="ALL MOVIE" tvg-logo="https://i.postimg.cc/WpmpcKkx/images.jpg",Md: MASUM RANA
 https://imgur.com/Xb5aJFC.mp4
 
