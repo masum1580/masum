@@ -343,11 +343,13 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxlFmkhEoShP524f4j6nSI0/ts
 
 #EXTINF:-1 xui-id="379" tvg-id="" tvg-name="& PRIVE HD" tvg-logo="http://172.16.29.34:80/images/08d41c9dcdc3cd5f5074b748f4d8318e.png" group-title="WI-FI",& PRIVE HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzqvOymolrkJ2lcwcHE4jUk/ts
+
 #EXTINF:-1 xui-id="380" tvg-id="" tvg-name="COLORS INFINITY HD" tvg-logo="http://172.16.29.34:80/images/91824de901fe924acb19122fc8fa5813.png" group-title="WI-FI",COLORS INFINITY HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxSahhHpr8sUNnOnXw-W9YQ/ts
 
 #EXTINF:-1 xui-id="381" tvg-id="" tvg-name="NICK TV HD+" tvg-logo="http://172.16.29.34:80/images/f8d7322d2f98a14e5e4227e945630a87.png" group-title="WI-FI",NICK TV HD+
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5pnufO29vA1VCEDIqfgUWE/ts
+
 #EXTINF:-1 xui-id="382" tvg-id="" tvg-name="SONY TEN2 HD" tvg-logo="http://172.16.29.34:80/images/29de51f924dcb840492593065333c5ef.png" group-title="WI-FI",SONY TEN2 HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAz8CvWgCp9hufE5nEp7b59M/ts
 
@@ -544,7 +546,7 @@ http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Kanguva%20%282024%29%20Hind
 #EXTINF:-1 group-title="ALL MOVIE" tvg-logo="https://i.postimg.cc/yd82393c/e-WUh4rgxtgypgn-Oa6u-GMn-Ut01ux.jpg",Sikandar Ka Muqaddar HD
 http://ftp.ctgfun.com/Indian/Hindi%20Movies/Sikandar%20Ka%20Muqaddar%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sikandar%20Ka%20Muqaddar%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
 
-#EXTINF:-1 group-title="ALL MOVIE" tvg-logo="https://i.postimg.cc/hvR0kQWN/MV5-BZj-Jm-Mj-Jm-YWMt-NTQy-Yy00-Nzcx-LWE5-N2-Et-MTY5-Nj-Rh-MGZm-Yj-Nl-Xk-Ey-Xk-Fqc-Gc-V1.jpg", Pushpa 2 HD
+#EXTINF:-1 group-title="ALL MOVIE" tvg-logo="https://i.postimg.cc/hvR0kQWN/MV5-BZj-Jm-Mj-Jm-YWMt-NTQy-Yy00-Nzcx-LWE5-N2-Et-MTY5-Nj-Rh-MGZm-Yj-Nl-Xk-Ey-Xk-Fqc-Gc-V1.jpg", Pushpa 2 Hall
 http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Pushpa%202%20The%20Rule%202024%20Hindi%20Telugu%20720p%20PreDvd%20x264%20%5BDDN%5D/Pushpa%202%20The%20Rule%202024%20Hindi%20720p%20PreDvd%20x264%20%5BDDN%5D.mp4
 
 #EXTINF:-1 group-title="ALL MOVIE" tvg-logo="", HD
