@@ -610,5 +610,5 @@ http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282024
 
 #EXTINF:-1 group-title="ALL MOVIE" tvg-logo="", HD
 
-#EXTINF:-1 group-title="BANw vs IERw" tvg-logo="https://i.postimg.cc/nzMZ3TMN/hq720.jpg", T Sport HD
-http://xtv.ooo:8080/live/Irfan99383/8888/167590.ts
+#EXTINF:-1 group-title="SA vs SL" tvg-logo="https://i.postimg.cc/NFCYXjmh/images-1.jpg", PTV HD
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
