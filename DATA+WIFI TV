@@ -1,6 +1,4 @@
 #EXTM3U8
-#EXTINF:-1 group-title="BANw vs IERw" tvg-logo="https://i.postimg.cc/nzMZ3TMN/hq720.jpg", T Sport HD
-http://xtv.ooo:8080/live/Irfan99383/8888/167590.ts
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 ,group-title="ADDMIN MASUM" tvg-logo="https://i.postimg.cc/6prmpnW2/replicate-prediction-x5ju2in6vjdtjjh4wso734j7xa.jpg",MASUM RANA
 https://imgur.com/Xb5aJFC.mp4
@@ -611,3 +609,6 @@ http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282024
 #EXTINF:-1 group-title="ALL MOVIE" tvg-logo="", HD
 
 #EXTINF:-1 group-title="ALL MOVIE" tvg-logo="", HD
+
+#EXTINF:-1 group-title="BANw vs IERw" tvg-logo="https://i.postimg.cc/nzMZ3TMN/hq720.jpg", T Sport HD
+http://xtv.ooo:8080/live/Irfan99383/8888/167590.ts
