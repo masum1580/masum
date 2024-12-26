@@ -610,5 +610,5 @@ http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282024
 
 #EXTINF:-1 group-title="ALL MOVIE" tvg-logo="", HD
 
-#EXTINF:-1 group-title="Khulna vs Barishal" tvg-logo="https://i.postimg.cc/NFCYXjmh/images-1.jpg", T SPORTS HD
-http://103.96.235.18:8080/sports1/index.m3u8
+#EXTINF:-1 group-title="6 vs Star" tvg-logo="https://i.postimg.cc/tCRC5Gjw/Big-Bash-League-logo.png", Star SPORTS2 HD
+http://128.0.104.56/live.ts?channelId=49568&uid=3453&deviceMac=00:1A:79:00:27:29
