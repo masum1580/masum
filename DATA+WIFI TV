@@ -610,8 +610,5 @@ http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282024
 
 #EXTINF:-1 group-title="ALL MOVIE" tvg-logo="", HD
 
-#EXTINF:-1 group-title="B P L(server 1)" tvg-logo="https://i.postimg.cc/V6sp6QzC/Duv-QTj-Ovq-Yvd-UOUK4-GBt9ana6k-CTVGn8-JZk1ay-Vl.jpg", BPL
-https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
-
-#EXTINF:-1 group-title="B P L (server 2)" tvg-logo="https://i.postimg.cc/V6sp6QzC/Duv-QTj-Ovq-Yvd-UOUK4-GBt9ana6k-CTVGn8-JZk1ay-Vl.jpg", BPL
-https://buddyxiptv.com/fancode/global/primary/113358_english_hls_6564ta-di/index.m3u8
+#EXTINF:-1 group-title="ICC CHIMPION" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/02/icc-champions-trophy-logo.png", BPL
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/1ccq7sy9m7/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd?|drmScheme=clearkey&drmLicense=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
